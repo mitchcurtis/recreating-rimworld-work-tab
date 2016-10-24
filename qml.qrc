@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ColonistDelegate.qml</file>
+        <file>ColonistModel.qml</file>
+        <file>PriorityHeader.qml</file>
+        <file>WorkPane.qml</file>
+    </qresource>
+</RCC>
